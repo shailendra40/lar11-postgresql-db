@@ -1,0 +1,14 @@
+1. View All Posts - http://localhost:8000/posts
+2. Create a New Post - http://localhost:8000/posts/create
+3. Store a New Post - http://localhost:8000/posts
+4. View a Specific Post - http://localhost:8000/posts/1
+5. Edit a Specific Post - http://localhost:8000/posts/1/edit
+6. Update a Specific Post - http://localhost:8000/posts/1
+7. Delete a Specific Post - http://localhost:8000/posts/1
+
+////
+Summary of URLs
+List all posts: http://localhost:8000/posts
+Create a new post: http://localhost:8000/posts/create
+View a specific post: http://localhost:8000/posts/{id}
+Edit a specific post: http://localhost:8000/posts/{id}/edit
